@@ -39,10 +39,7 @@
 - system for managing data lakes, aka a 'collection of datasets that often are not well organized or not organized at all and where one needs to "fish" for useful datasets"
 
 ## machine learning industry (2018 - present)
-- this is not a new concept, but the ML domain is struggling with how to manage with the explosion of ML models and datasets in the ML wild west, particularly under the pressure of the lashback regarding bias and accountability of models.  Other industries have already researched this problem for decades and have solutions in place.
-
-
-
+- this is not a new concept, but the ML domain is struggling with how to manage with the explosion of ML models and datasets in the ML wild west, particularly under the pressure of the lashback regarding bias and accountability
 
 ### [model cards](http://delivery.acm.org/10.1145/3290000/3287596/p220-Mitchell.pdf?ip=170.225.9.141&id=3287596&acc=NO%20RULES&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ED2E531DB056F4A45%2E4D4702B0C3E38B35&__acm__=1556846985_823be4d723bed277a13ad2335eecd8d8) (Google + U of T) - January 2019
 - general concepts and a framework for what metadata is necessary to clarify the intended usage of ML models

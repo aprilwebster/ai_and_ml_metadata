@@ -17,7 +17,7 @@
 ### issues with standards
 - are top-down and require 
 
-## gis domain
+## gis domain (1992 -> present)
 - FGDC metadata standard to describe geospatial datasets dates back to at least 1992
    - https://web.archive.org/web/20061018013240/http://libraries.mit.edu/guides/subjects/metadata/standards/fgdc.html
 - Other references:
@@ -26,12 +26,12 @@
    - https://www.fgdc.gov/resources/factsheets/documents/GeospatialMetadata-July2011.pdf
    - https://www.fgdc.gov/metadata/documents/ValueOfMetaFiles/ValueOfMetaPDF
 
-## computer science domain
+## computer science domain (tba)
 - 1997: https://www.cs.waikato.ac.nz/~ml/publications/1997/Cunningham-Cataloging97.pdf
 
 
-## machine learning industry - 2018-19
-- this is not a new concept, but the ML domain is struggling with how to manage with the explosion of ML models and datasets in the ML wild west
+## machine learning industry (2018 - present)
+- this is not a new concept, but the ML domain is struggling with how to manage with the explosion of ML models and datasets in the ML wild west, particularly under the pressure of the lashback regarding bias and accountability of models.  Other industries have already researched this problem for decades and have solutions in place.
 
 ### [model cards](http://delivery.acm.org/10.1145/3290000/3287596/p220-Mitchell.pdf?ip=170.225.9.141&id=3287596&acc=NO%20RULES&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ED2E531DB056F4A45%2E4D4702B0C3E38B35&__acm__=1556846985_823be4d723bed277a13ad2335eecd8d8) (Google + U of T) - January 2019
 - general concepts and a framework for what metadata is necessary to clarify the intended usage of ML models

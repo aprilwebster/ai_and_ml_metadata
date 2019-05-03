@@ -10,6 +10,10 @@
 - without a common language, integration and interoperability are not possible
 - XML is the language of choice for most industry standards due to its semi-structured nature which provides a way to organize properties and facilitate easier analysis and comparison, while still providing support for unstructured data
 
+### general purpose
+- Dublin Core: http://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+- 
+
 ### industry standards
 - many industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users for datasets, models, and code
 - it would be wise for the ML domain to look into the state of the art for metadata management in other domains that have been addressing these issues over the past few decades.  Metadata to help end users understand and evaluate appropriate usage and handle bias have already been baked into metadata standards in these domains.

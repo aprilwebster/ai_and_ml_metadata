@@ -30,8 +30,8 @@
 - 1997: https://www.cs.waikato.ac.nz/~ml/publications/1997/Cunningham-Cataloging97.pdf
 
 ### [goods](http://sites.computer.org/debull/A16sept/p5.pdf) (Alon Halevy at Google Research) - 2016
-- addresses the issue of the challenge of generating metadata
-- instead of a top-down centralised approach to metadata collection at the time of dataset creation, Halevy proposes a decentralized approach to crawling metadata from datasets that are already in use
+- addresses the issue of the challenge of metadata generation
+- instead of a requiring metadata authoring at the time of dataset creation, Halevy proposes a decentralized approach to crawling metadata after-the-fact from datasets that are already in use
 - system for managing data lakes, aka a 'collection of datasets that often are not well organized or not organized at all and where one needs to "fish" for useful datasets"
 
 ## machine learning industry (2018 - present)

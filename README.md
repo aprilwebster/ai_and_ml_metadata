@@ -14,6 +14,10 @@
 - Dublin Core: http://www.dublincore.org/specifications/dublin-core/dcmi-terms/
 - 
 
+### ml standards
+- W3C MLSchema: http://ml-schema.github.io/documentation/ML%20Schema.html
+
+
 ### industry standards
 - many industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users for datasets, models, and code
 - it would be wise for the ML domain to look into the state of the art for metadata management in other domains that have been addressing these issues over the past few decades.  Metadata to help end users understand and evaluate appropriate usage and handle bias have already been baked into metadata standards in these domains.

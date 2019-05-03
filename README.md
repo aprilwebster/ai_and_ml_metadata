@@ -31,7 +31,6 @@
 - similar to Google/Microsoft's concept of a datasheet, it prescribes dataset metadata categories and questions for each that the supplier of the dataset should provide
 - goal of the factsheet is to address concerns over fairness, explainability, bias, etc
 
-### data statements (U of W) - 2018
-https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041
+### [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) (U of W) - 2018
 - more ethically responsive models
 - mitigating bias

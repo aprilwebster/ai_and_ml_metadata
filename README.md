@@ -5,13 +5,9 @@
 - without a common language, integration and interoperability are not possible
 - XML is the language of choice for most industry standards as because if its semi-structure natures provide a way to provide  organization properties that make it easier to analyze while still allowing for unstructured data to be represented in fields.
 
-### standards bodies
-- ISO
-- IEEE
-
 ### industry standards
-- many other industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users of datasets and models
-- it would be wise of the ML domain to look into the state of the art for metadata management in other domains that have been addressing metadata over the past few decades.  Metadata to help end users understand and evaluate appropriate usage and handle bias have already been baked into metadata standards in these domains.
+- many industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users for datasets, models, and code
+- it would be wise for the ML domain to look into the state of the art for metadata management in other domains that have been addressing these issues over the past few decades.  Metadata to help end users understand and evaluate appropriate usage and handle bias have already been baked into metadata standards in these domains.
 
 ## machine learning domain - 2018-19
 - this is not a new concept, but the ML domain is struggling with how to manage this with the explosion of ML models in the wild

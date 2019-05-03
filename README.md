@@ -17,7 +17,7 @@
 ### issues with standards
 - are top-down and require 
 
-## gis domain (1992 -> present)
+## gis domain (1992 - present)
 - FGDC metadata standard to describe geospatial datasets dates back to at least 1992
    - https://web.archive.org/web/20061018013240/http://libraries.mit.edu/guides/subjects/metadata/standards/fgdc.html
 - Other references:

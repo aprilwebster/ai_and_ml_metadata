@@ -12,6 +12,12 @@
 ### issues with standards
 - are top-down and require 
 
+## gis domain
+- http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/a-quick-tour-of-creating-and-editing-metadata.htm#ESRI_SECTION1_CC2F6DEED69B428D8C694D2804F00640
+- http://desktop.arcgis.com/en/arcmap/latest/manage-data/metadata/illustrated-guide-to-complete-fgdc-metadata.htm#GUID-16DC4914-3953-405B-BFEC-555C129961F3
+- https://www.fgdc.gov/resources/factsheets/documents/GeospatialMetadata-July2011.pdf
+- https://www.fgdc.gov/metadata/documents/ValueOfMetaFiles/ValueOfMetaPDF
+
 ## computer science domain
 - 1997: https://www.cs.waikato.ac.nz/~ml/publications/1997/Cunningham-Cataloging97.pdf
 

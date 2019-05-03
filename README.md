@@ -12,7 +12,11 @@
 ### issues with standards
 - are top-down and require 
 
-## machine learning domain - 2018-19
+## computer science domain
+- 1997: https://www.cs.waikato.ac.nz/~ml/publications/1997/Cunningham-Cataloging97.pdf
+
+
+## machine learning industry - 2018-19
 - this is not a new concept, but the ML domain is struggling with how to manage this with the explosion of ML models in the wild
 
 ### [model cards](http://delivery.acm.org/10.1145/3290000/3287596/p220-Mitchell.pdf?ip=170.225.9.141&id=3287596&acc=NO%20RULES&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ED2E531DB056F4A45%2E4D4702B0C3E38B35&__acm__=1556846985_823be4d723bed277a13ad2335eecd8d8) (Google + U of T) - January 2019

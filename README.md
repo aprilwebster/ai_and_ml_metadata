@@ -11,3 +11,10 @@
 
 ### industry standards
 
+## machine learning domain
+### model cards
+- guidelines and general sections for metadata necessary to evaluate the performance of ML models
+- no machine-readable implementation/schema provided 
+- good starting point for discussion and what information is useful, but will require a machine-readable definition to become truly useful
+
+### datasheets for datasets

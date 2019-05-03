@@ -1,5 +1,10 @@
 # metadata
 
+## what is metadata
+
+## a history
+
+
 ## metadata standards
 - to be useful and understandable, metadata must be standardized to provide a common language with semantics that are as clearly defined (and unambiguous) as possible
 - without a common language, integration and interoperability are not possible
@@ -13,17 +18,20 @@
 - are top-down and require 
 
 ## gis domain
-- http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/a-quick-tour-of-creating-and-editing-metadata.htm#ESRI_SECTION1_CC2F6DEED69B428D8C694D2804F00640
-- http://desktop.arcgis.com/en/arcmap/latest/manage-data/metadata/illustrated-guide-to-complete-fgdc-metadata.htm#GUID-16DC4914-3953-405B-BFEC-555C129961F3
-- https://www.fgdc.gov/resources/factsheets/documents/GeospatialMetadata-July2011.pdf
-- https://www.fgdc.gov/metadata/documents/ValueOfMetaFiles/ValueOfMetaPDF
+- FGDC metadata standard to describe geospatial datasets dates back to at least 1992
+   - https://web.archive.org/web/20061018013240/http://libraries.mit.edu/guides/subjects/metadata/standards/fgdc.html
+- Other references:
+   - http://desktop.arcgis.com/en/arcmap/10.3/manage-data/metadata/a-quick-tour-of-creating-and-editing-metadata.htm#ESRI_SECTION1_CC2F6DEED69B428D8C694D2804F00640
+   - http://desktop.arcgis.com/en/arcmap/latest/manage-data/metadata/illustrated-guide-to-complete-fgdc-metadata.htm#GUID-16DC4914-3953-405B-BFEC-555C129961F3
+   - https://www.fgdc.gov/resources/factsheets/documents/GeospatialMetadata-July2011.pdf
+   - https://www.fgdc.gov/metadata/documents/ValueOfMetaFiles/ValueOfMetaPDF
 
 ## computer science domain
 - 1997: https://www.cs.waikato.ac.nz/~ml/publications/1997/Cunningham-Cataloging97.pdf
 
 
 ## machine learning industry - 2018-19
-- this is not a new concept, but the ML domain is struggling with how to manage this with the explosion of ML models in the wild
+- this is not a new concept, but the ML domain is struggling with how to manage with the explosion of ML models and datasets in the ML wild west
 
 ### [model cards](http://delivery.acm.org/10.1145/3290000/3287596/p220-Mitchell.pdf?ip=170.225.9.141&id=3287596&acc=NO%20RULES&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ED2E531DB056F4A45%2E4D4702B0C3E38B35&__acm__=1556846985_823be4d723bed277a13ad2335eecd8d8) (Google + U of T) - January 2019
 - general concepts and a framework for what metadata is necessary to clarify the intended usage of ML models

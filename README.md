@@ -3,7 +3,7 @@
 ## metadata standards
 - to be useful and understandable, metadata must be standardized to provide a common language with semantics that are as clearly defined (and unambiguous) as possible
 - without a common language, integration and interoperability are not possible
-- XML is the language of choice for most industry standards as because if its semi-structure natures provide a way to provide  organization properties that make it easier to analyze while still allowing for unstructured data to be represented in fields.
+- XML is the language of choice for most industry standards due to its semi-structured nature which provides a way to organize properties and facilitates easier analysis and comparison while still providing support for unstructured data
 
 ### industry standards
 - many industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users for datasets, models, and code

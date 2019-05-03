@@ -40,7 +40,7 @@
 ### [goods](http://sites.computer.org/debull/A16sept/p5.pdf) (Alon Halevy at Google Research) - 2016
 - addresses the issue of the challenge of dataset metadata generation
 - instead of a requiring metadata authoring at the time of dataset creation, Halevy proposes a decentralized approach to crawling metadata after-the-fact from datasets that are already in use
-- system for managing data lakes, aka a 'collection of datasets that often are not well organized or not organized at all and where one needs to "fish" for useful datasets"
+- system for managing data lakes, aka a 'collection of datasets that often are not well organized or not organized at all and where one needs to "fish" for useful datasets'
 - other references
    - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45390.pdf
 

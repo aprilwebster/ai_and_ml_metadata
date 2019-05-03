@@ -37,6 +37,8 @@
 - addresses the issue of the challenge of dataset metadata generation
 - instead of a requiring metadata authoring at the time of dataset creation, Halevy proposes a decentralized approach to crawling metadata after-the-fact from datasets that are already in use
 - system for managing data lakes, aka a 'collection of datasets that often are not well organized or not organized at all and where one needs to "fish" for useful datasets"
+- other references
+   - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45390.pdf
 
 ## machine learning industry (2018 - present)
 - this is not a new concept, but the ML domain is struggling with how to manage with the explosion of ML models and datasets in the ML wild west, particularly under the pressure of the lashback regarding bias and accountability

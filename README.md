@@ -10,20 +10,21 @@
 - without a common language, integration and interoperability are not possible
 - XML is the language of choice for most industry standards due to its semi-structured nature which provides a way to organize properties and facilitate easier analysis and comparison, while still providing support for unstructured data
 
-### general purpose
-- Dublin Core: http://www.dublincore.org/specifications/dublin-core/dcmi-terms/
-- 
-
-### ml standards
-- W3C MLSchema: http://ml-schema.github.io/documentation/ML%20Schema.html
+### general purpose standards
+- **[Dublin Core Metadata Element Set (DCE)](http://www.dublincore.org/specifications/dublin-core/dcmi-terms/ )**: general description of resources that's limited to basic data including author, format, language, id or title.  Registered as ISO Standard 15836 in 2009.
+   - can think of this as the basic standard for metadata
+   - benefits: simple, easy-to-understand, easy-to-collect
+- **[W3C MLSchema](http://ml-schema.github.io/documentation/ML%20Schema.html)**: 
 
 
 ### industry standards
-- many industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users for datasets, models, and code
+- many industries have come up with solutions in the form of standards and schemas for recording metadata to provide information to end users for datasets and models
 - it would be wise for the ML domain to look into the state of the art for metadata management in other domains that have been addressing these issues over the past few decades.  Metadata to help end users understand and evaluate appropriate usage and handle bias have already been baked into metadata standards in these domains.
 
 ### issues with standards
-- are top-down and require 
+- can be inflexible
+- standards creep
+- TODO: include journal paper on xml standards mgmt call-to-action
 
 ## gis domain (1992 - present)
 - FGDC metadata standard to describe geospatial datasets dates back to at least 1992
@@ -66,3 +67,6 @@
 ### [data statements](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00041) (U of W) - 2018
 - more ethically responsive models
 - mitigating bias
+
+# [dataset nutrition label framework](tba)
+- it's nice to see basic descriptive statistics addressed in this framework, something that seems to be lacking the ML domain

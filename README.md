@@ -68,5 +68,5 @@
 - more ethically responsive models
 - mitigating bias
 
-# [dataset nutrition label framework](tba)
-- it's nice to see basic descriptive statistics addressed in this framework, something that seems to be lacking the ML domain
+### [dataset nutrition label framework](tba)
+- it's nice to see basic descriptive statistics addressed in this framework, something that seems to be lacking in the ML domain

@@ -71,5 +71,8 @@
 ### [dataset nutrition label framework](tba)
 - it's nice to see basic descriptive statistics addressed in this framework, something that seems to be lacking in the ML domain
 
-### [factsheets](tba)
-- https://arxiv.org/abs/1808.07261
+### [factsheets](https://arxiv.org/pdf/1808.07261.pdf)
+- FactSheets: Increasing Trust in AI Services through Supplier's Declarations of Conformity  (August 2018)
+```
+Accuracy is an important concern for suppliers of artificial intelligence (AI) services, but considerations beyond accuracy, such as safety (which includes fairness and explainability), security, and provenance, are also critical elements to engender consumers' trust in a service. Many industries use transparent, standardized, but often not legally required documents called supplier's declarations of conformity (SDoCs) to describe the lineage of a product along with the safety and performance testing it has undergone. SDoCs may be considered multi-dimensional fact sheets that capture and quantify various aspects of the product and its development to make it worthy of consumers' trust. Inspired by this practice, we propose FactSheets to help increase trust in AI services. We envision such documents to contain purpose, performance, safety, security, and provenance information to be completed by AI service providers for examination by consumers. We suggest a comprehensive set of declaration items tailored to AI and provide examples for two fictitious AI services in the appendix of the paper.
+```
